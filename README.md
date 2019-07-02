@@ -1,6 +1,6 @@
-# Stark decelerator waveform
+# Rydberg Stark decelerator
 
-v0.0.1
+v0.0.2
 
 Generate trapping waveforms for a beam of Rydberg atoms above a linear Stark decelerator.
 

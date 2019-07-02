@@ -1,6 +1,7 @@
-# Transmission Line
+# Rydberg Stark decelerator
 
-## create_wf.vi
+## main.lvproj
+## - create_wf.vi
 
 Use the 'input' tab to specify the electrode configuration and desired acceleration/ deceleration stages.   The electrodes are equally spaced and grouped into cells of 'n' electrodes, where every i'th electrode is connected to the (i + n)'th. 
 

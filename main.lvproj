@@ -75,18 +75,18 @@
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="LV2013" Type="Zip File">
+			<Item Name="main_LV2013" Type="Zip File">
 				<Property Name="Absolute[0]" Type="Bool">false</Property>
-				<Property Name="BuildName" Type="Str">LV2013</Property>
+				<Property Name="BuildName" Type="Str">main_LV2013</Property>
 				<Property Name="Comments" Type="Str"></Property>
-				<Property Name="DestinationID[0]" Type="Str">{33691057-1F8D-4F58-B36F-25A1A8FC2FB6}</Property>
+				<Property Name="DestinationID[0]" Type="Str">{4E7DA693-C6E1-4089-955A-8E5D79BCBC1C}</Property>
 				<Property Name="DestinationItemCount" Type="Int">1</Property>
 				<Property Name="DestinationName[0]" Type="Str">Destination Directory</Property>
 				<Property Name="IncludedItemCount" Type="Int">1</Property>
 				<Property Name="IncludedItems[0]" Type="Ref">/My Computer</Property>
 				<Property Name="IncludeProject" Type="Bool">true</Property>
-				<Property Name="Path[0]" Type="Path">../builds/transmission-line_2013.zip</Property>
-				<Property Name="ZipBase" Type="Str">NI_zipbasedefault</Property>
+				<Property Name="Path[0]" Type="Path">../builds/main.zip</Property>
+				<Property Name="ZipBase" Type="Str">NI_zipbasevirtual</Property>
 			</Item>
 		</Item>
 	</Item>
